@@ -1,0 +1,5 @@
+This is an experimental SRU () interface for SOLR / Lucene.
+
+This version allows symantic querying via the [ ] operator,
+the extra expand information is retrieved from a tripple store if available.
+
