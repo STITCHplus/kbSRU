@@ -1,5 +1,5 @@
 /*
-    Copyright (c) 2010 KB, Koninklijke Bibliotheek.
+    Copyright (c) 2010-2012 KB, Koninklijke Bibliotheek.
 
     Maintainer : Willem Jan Faber
     Requestor : Theo van Veen
