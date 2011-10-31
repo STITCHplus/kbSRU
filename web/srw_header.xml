@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:tel="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:expand="http://kbresearch.nl/exapnd" xmlns:solr="http://solr/">
+
+<srw:version>1.1</srw:version> 
+<srw:numberOfRecords>$numberOfRecords</srw:numberOfRecords> 
+<srw:resultSetId>$resultSetId</srw:resultSetId> 
+<srw:resultSetIdleTime>$resultSetIdleTime</srw:resultSetIdleTime> 

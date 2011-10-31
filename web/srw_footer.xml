@@ -1,0 +1,9 @@
+<srw:echoedSearchRetrieveRequest>
+<srw:version>1.1</srw:version> 
+<srw:query>$query</srw:query> 
+<srw:maximumRecords>$maximumRecords</srw:maximumRecords> 
+<srw:startRecord>$startRecord</srw:startRecord>
+<srw:recordSchema>$recordSchema</srw:recordSchema> 
+<srw:resultSetTTL>300</srw:resultSetTTL> 
+</srw:echoedSearchRetrieveRequest>
+</srw:searchRetrieveResponse>

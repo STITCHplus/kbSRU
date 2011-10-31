@@ -1,0 +1,14 @@
+<srw:diagnostics>
+<diag:diagnostic>
+<diag:uri>info:srw/diagnostic/1/7</diag:uri>
+<diag:details>operation</diag:details>
+<diag:message>$error</diag:message>
+</diag:diagnostic>
+<diag:diagnostic>
+<diag:uri>info:srw/diagnostic/1/10</diag:uri>
+<diag:details>
+$error
+</diag:details>
+<diag:message>$error</diag:message>
+</diag:diagnostic>
+</srw:diagnostics>
