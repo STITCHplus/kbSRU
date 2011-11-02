@@ -1,5 +1,10 @@
-This is an experimental SRU () interface for SOLR / Lucene.
+This is an experimental SRU interface for SOLR / Lucene.
 
-This version allows symantic querying via the [ ] operator,
-the extra expand information is retrieved from a tripple store if available.
+Here are the specs, http://www.loc.gov/standards/sru/
+
+Although not all fuctionality was implemented, the SRU interfce worked well enough for testing purposes.
+
+
+
+
 
